@@ -1,0 +1,45 @@
+# Operating systems
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editors and temporary files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+*.tmp
+*.temp
+
+# Secrets and credentials
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p8
+*.p12
+*.cer
+*.crt
+*.mobileprovision
+*credentials*
+*secret*
+private-config.*
+
+# Builds, archives, and large generated media
+build/
+dist/
+exports/
+*.ipa
+*.apk
+*.aab
+*.zip
+*.dmg
+*.mov
+
+# Godot/editor state if files are added during documentation work
+.godot/
+.claude/
+export_presets.cfg
+
