@@ -16,9 +16,9 @@ The game gradually introduces cup sizes, additional tea bases, ice levels, toppi
 
 ## My Role
 
-I was one of the project's two developers, working under the Git identity `Ding-yu Hang`. Because this was a small team, I participated across the development lifecycle rather than owning only one isolated subsystem. Both developers contributed to most areas through implementation, review, testing, debugging, content iteration, and release preparation.
+I was one of two developers on the project and contributed across the full development lifecycle, including gameplay systems, UI, progression, testing, debugging and release preparation.
 
-My commit history directly supports contributions to:
+My contributions included:
 
 - the initial project structure and core gameplay loop;
 - drink-order generation and validation, drink-building interactions, scoring, and save data;
@@ -27,7 +27,7 @@ My commit history directly supports contributions to:
 - gameplay UI, layout fixes, audio integration, shop behaviour, and mobile interaction fixes;
 - debugging, release preparation, and stability work leading to the App Store release.
 
-Other shipped areas—including localisation, visual presentation, monetisation, platform services, content balancing, and final integration—were collaborative responsibilities within the two-person team. Git records individual commits, but they do not capture every design discussion, review, test, or paired contribution. The supporting commit evidence and its limits are documented in [Contribution Evidence](docs/contribution-evidence.md).
+We also collaborated on localisation, visual presentation, monetisation, platform services, content balancing and final integration. Further details are available in [Contribution Evidence](docs/contribution-evidence.md).
 
 ## Tech Stack
 
@@ -83,12 +83,13 @@ The main menu and gameplay screenshots appear above. These additional captures s
 
 <p>
   <img src="screenshots/02-chapter-select.png" alt="Chapter selection and earned stars" width="220">
-  <img src="screenshots/04-achievements.png" alt="Achievement list from an earlier game version" width="220">
+  <img src="screenshots/04-achievements.png" alt="Achievement list" width="220">
 </p>
 
-These captures are from an earlier game version; the achievement screen shows the earlier 16-achievement set. Current features may differ. [View full-resolution screenshots](screenshots/README.md).
+[View full-resolution screenshots](screenshots/README.md).
 
 A gameplay video has not yet been added.
+
 ## Architecture / Gameplay Flow
 
 ```mermaid

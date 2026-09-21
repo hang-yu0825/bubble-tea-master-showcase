@@ -1,6 +1,6 @@
 # Game Screenshots
 
-Screenshots approved by the project owner for portfolio display. These are earlier-version captures, including the earlier 16-achievement screen; they do not document every feature in the current source snapshot.
+Screenshots of Bubble Tea Master, approved by the project owner for portfolio display.
 
 | Screen | Full-resolution image |
 |---|---|
